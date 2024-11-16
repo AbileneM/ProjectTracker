@@ -9,6 +9,42 @@
       Title="Membres" Background="#F2F2F2">
 
     <Grid>
-        <TextBlock Text="Membres" Foreground="#FF907DED" FontSize="72" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0" Background="Transparent">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!-- Logo and Title -->
+            <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="10">
+                <Path Stretch="Uniform" Fill="#504BD7" Margin="5" Height="40" Width="40" Data="{StaticResource Logo}"/>
+                <TextBlock Text="Project Tracker" FontSize="18" Foreground="#504BD7" VerticalAlignment="Center" FontWeight="Bold"/>
+            </StackPanel>
+
+            <!-- Blue Border for Navigation -->
+            <Border Grid.Row="1" Background="#504BD7" CornerRadius="0,50,0,0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition Height="80"/>
+                    </Grid.RowDefinitions>
+                    <ListBox Grid.Row="0" SelectionMode="Single" SelectionChanged="sidebar_SelectionChanged" x:Name="sidebar" BorderThickness="0" Margin="10,50,10,5" Background="Transparent" MaxHeight="400">
+                        <controls:NavButton Navlink="/Views/Projets.xaml" Margin="8" Padding="6" NavTitle="Projets" Icon="{StaticResource ProjetsIcon}"/>
+                        <controls:NavButton Navlink="/Views/Membres.xaml" Margin="8" Padding="6" NavTitle="Membres" Icon="{StaticResource MembresIcon}"/>
+                        <controls:NavButton Navlink="/Views/Affectation.xaml" Margin="8" Padding="6" NavTitle="Affectations" Icon="{StaticResource AffectationIcon}"/>
+                    </ListBox>
+                </Grid>
+            </Border>
+        </Grid>
+        
+        
+        
+        
+        <TextBlock Text="Membres" Foreground="#FF907DED" FontSize="72" VerticalAlignment="Top" HorizontalAlignment="Left" Grid.Column="1" Margin="71,121,0,0" />
     </Grid>
 </Page>

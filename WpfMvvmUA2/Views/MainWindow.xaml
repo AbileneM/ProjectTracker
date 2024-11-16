@@ -45,12 +45,35 @@
                             <Label Content="Quitter" Foreground="White" FontWeight="Medium"/>
                         </StackPanel>
                     </Button>
+
                 </Grid>
             </Border>
         </Grid>
 
         <!-- Content Frame -->
         <Frame Grid.Column="1" Padding="10" x:Name="navframe" NavigationUIVisibility="Hidden" Background="#F2F2F2"/>
+
+        <Button Height="30" Content="Add Employe" Width="105" VerticalContentAlignment="Center" Padding="5" Margin="0,85,26,0" 
+                VerticalAlignment="Top" HorizontalAlignment="Right" BorderThickness="1" BorderBrush="#E0E0E0" Grid.Column="1" />
+        <Label Content="Projets" Grid.Column="1" Margin="24,75,562,424" FontSize="30" />
+        <TextBox Name="FilterTextBox" Height="30" Width="200" Margin="573,139,0,0" VerticalAlignment="Top"
+                 HorizontalAlignment="Left" BorderThickness="1" BorderBrush="#E0E0E0" Grid.Column="1" />
+        <Label Content="Filtrer par nom"  Height="35" Width="113" Margin="460,138,0,0" VerticalAlignment="Top"
+                 HorizontalAlignment="Left" Grid.Column="1" FontSize="14" />
+
+        <ListView Name="EmployeList" BorderBrush="#cdcdcd" Margin="104,213,133,69" Padding="0" Grid.Column="1">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Nom"/>
+                    <GridViewColumn Header="Avancement"/>
+                    <GridViewColumn Header="Actions" Width="50">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate></DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
 
     </Grid>
 </Window>
