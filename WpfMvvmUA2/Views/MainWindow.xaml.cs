@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WpfMvvmUA2.ViewModel;
 using WpfMvvmUA2.Views.Controls;
 
 namespace WpfMvvmUA2
@@ -20,6 +21,8 @@ namespace WpfMvvmUA2
         public MainWindow()
         {
             InitializeComponent();
+            MainView mainView = new MainView();
+            this.DataContext = mainView;
         }
 
         private void sidebar_SelectionChanged(object sender, SelectionChangedEventArgs e)

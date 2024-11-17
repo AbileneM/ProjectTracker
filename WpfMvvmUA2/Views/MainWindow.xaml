@@ -53,19 +53,32 @@
         <!-- Content Frame -->
         <Frame Grid.Column="1" Padding="10" x:Name="navframe" NavigationUIVisibility="Hidden" Background="#F2F2F2"/>
 
-        <Button Height="30" Content="Add Employe" Width="105" VerticalContentAlignment="Center" Padding="5" Margin="0,85,26,0" 
-                VerticalAlignment="Top" HorizontalAlignment="Right" BorderThickness="1" BorderBrush="#E0E0E0" Grid.Column="1" />
-        <Label Content="Projets" Grid.Column="1" Margin="24,75,562,424" FontSize="30" />
-        <TextBox Name="FilterTextBox" Height="30" Width="200" Margin="573,139,0,0" VerticalAlignment="Top"
-                 HorizontalAlignment="Left" BorderThickness="1" BorderBrush="#E0E0E0" Grid.Column="1" />
-        <Label Content="Filtrer par nom"  Height="35" Width="113" Margin="460,138,0,0" VerticalAlignment="Top"
-                 HorizontalAlignment="Left" Grid.Column="1" FontSize="14" />
+        <DockPanel Grid.Row="0" Grid.ColumnSpan="2" Margin="195,0,5,0">
+            <TextBlock Text="Projets" FontSize="26" Margin="30,55,0,0" RenderTransformOrigin="0.521,0.509" Width="264"/>
+            <Button Height="30" Content="Add Project" Command="{Binding ShowWindow}" Width="105" VerticalContentAlignment="Center" Padding="5" Margin="0,55,25,0" 
+                    VerticalAlignment="Top" HorizontalAlignment="Right" BorderThickness="1" BorderBrush="#E0E0E0" />
+        </DockPanel>
+        
+        <StackPanel Grid.Column="1" Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,115,0,0">
+            <TextBlock Text="Filtrer par Nom" FontSize="14" Margin="0,5,5,5"/>
+            <TextBox Name="FilterTextBox" Height="30" Width="200" Margin="5,5,25,5" VerticalAlignment="Top"
+                HorizontalAlignment="Right" BorderThickness="1" BorderBrush="#E0E0E0"/>
+        </StackPanel>
 
-        <ListView Name="EmployeList" BorderBrush="#cdcdcd" Margin="104,213,133,69" Padding="0" Grid.Column="1">
+        <ListView Name="ProjetList" ItemsSource="{Binding Projets}" BorderBrush="#cdcdcd" Margin="104,213,133,69" Padding="0" Grid.Column="1">
             <ListView.View>
                 <GridView>
-                    <GridViewColumn Header="Nom"/>
-                    <GridViewColumn Header="Avancement"/>
+                    <GridViewColumn Header="Nom" DisplayMemberBinding="{Binding Titre}" Width="250"/>
+
+                    <GridViewColumn Header="Avancement" Width="150" DisplayMemberBinding="{Binding Avancement}">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <ProgressBar Minimum="0" Maximum="100" Height="20" VerticalAlignment="Center" Margin="10,0,0,0" 
+                                             Value="{Binding ElementName=status, Path=Value}"/>  
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    
                     <GridViewColumn Header="Actions" Width="50">
                         <GridViewColumn.CellTemplate>
                             <DataTemplate></DataTemplate>

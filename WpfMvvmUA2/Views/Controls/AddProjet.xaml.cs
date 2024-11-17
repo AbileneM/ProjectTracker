@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using WpfMvvmUA2.ViewModel;
 
 namespace WpfMvvmUA2.Views.Controls
 {
@@ -22,6 +23,11 @@ namespace WpfMvvmUA2.Views.Controls
         public AddProjet()
         {
             InitializeComponent();
+            AddProjetView addProjetView = new AddProjetView();
+            this.DataContext = addProjetView;
+
+            // Définit l'action CloseAction pour fermer la fenêtre
+           // addProjetView.CloseAction = new Action(this.Close);
         }
     }
 }

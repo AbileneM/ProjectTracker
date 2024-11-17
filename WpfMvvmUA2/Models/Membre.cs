@@ -18,16 +18,6 @@ namespace WpfMvvmUA2.Models
 
     public class MembreList
     {
-        public static ObservableCollection<Membre> _ListeMembre = new ObservableCollection<Membre>()
-        { };
-
-        public static ObservableCollection<Membre> GetMembres()
-        {
-            return _ListeMembre;
-        }
-        public static void AjouterMembre(Membre membre)
-        {
-            _ListeMembre.Add(membre);
-        }
+        
     }
 }
