@@ -32,6 +32,25 @@ namespace WpfMvvmUA2.ViewModel
             addProjet.Show();
         }
 
+        private int _sliderValeur;
+
+        public int SliderValeur
+        {
+            get { return _sliderValeur; }
+            set
+            {
+                _sliderValeur = value;
+                OnPropertyChanged(nameof(SliderValeur));
+            }
+        }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        protected void OnPropertyChanged(string propertyName)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
+
     }
 
 }

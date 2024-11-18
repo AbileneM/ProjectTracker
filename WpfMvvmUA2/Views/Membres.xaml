@@ -73,7 +73,12 @@
                     <GridViewColumn Header="Avancement" Width="100"/>
                     <GridViewColumn Header="Actions" Width="50">
                         <GridViewColumn.CellTemplate>
-                            <DataTemplate></DataTemplate>
+                            <DataTemplate>
+                                <Button Style="{StaticResource ResourceKey=ActionButtonStyle}" Background="#bd0921">
+                                    <Path Data="{StaticResource DeleteIcon}" Height="12" Width="12" Margin="2" Fill="White"
+                                                Stretch="Uniform" VerticalAlignment="Center"/>
+                                </Button>
+                            </DataTemplate>
                         </GridViewColumn.CellTemplate>
                     </GridViewColumn>
                 </GridView>

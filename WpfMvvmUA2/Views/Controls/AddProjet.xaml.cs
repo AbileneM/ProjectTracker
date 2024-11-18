@@ -27,7 +27,7 @@ namespace WpfMvvmUA2.Views.Controls
             this.DataContext = addProjetView;
 
             // Définit l'action CloseAction pour fermer la fenêtre
-           // addProjetView.CloseAction = new Action(this.Close);
+            addProjetView.CloseAction = new Action(this.Close);
         }
     }
 }

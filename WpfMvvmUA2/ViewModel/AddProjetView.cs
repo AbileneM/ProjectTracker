@@ -14,6 +14,10 @@ namespace WpfMvvmUA2.ViewModel
         public string Titre { get; set; }
         public int Avancement { get; set; }
         public ICommand AddProjetCommand { get; set; }
+
+        // Action pour fermer la fenêtre
+        public Action CloseAction { get; set; }
+
         public AddProjetView()
         {
             AddProjetCommand = new MyICommand(ExcuteAddProjet, CanExcuteAddProjet);
@@ -27,6 +31,8 @@ namespace WpfMvvmUA2.ViewModel
             ProjetManager.AjouterProjet(new Projet()
             { Titre= Titre, Avancement = Avancement});
 
+            // Appelle l'action pour fermer la fenêtre
+            CloseAction?.Invoke();
         }
     }
 }

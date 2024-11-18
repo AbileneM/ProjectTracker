@@ -15,13 +15,13 @@
 
         <StackPanel>
             <Label Content="Avancement de projet" Margin="44,137,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
-            <Slider Name ="status"  HorizontalAlignment="Left" Margin="44,17,0,0" VerticalAlignment="Top" Width="297" Minimum="0" Maximum="100" Height="26" 
-                    TickPlacement="BottomRight" TickFrequency="10" Value="0"  IsSnapToTickEnabled="True"/>
+            <Slider x:Name ="status"  HorizontalAlignment="Left" Margin="44,17,0,0" VerticalAlignment="Top" Width="297" Minimum="0" Maximum="100" Height="26" 
+                    TickPlacement="BottomRight" TickFrequency="10" Value="{Binding SliderValeur}" />
         </StackPanel>
 
         <StackPanel Orientation="Horizontal">
             <Label Content="Progression: "  Margin="44,215,0,0" Width="76"/>
-            <Label Content="{Binding ElementName=status,Path=Value}" Width="178" Height="32" Margin="0,179,0,0"/>
+            <Label Content="{Binding ElementName=status, Path=Value, StringFormat={}{0:0}%}" Width="178" Height="32" Margin="0,180,0,0"/>
         </StackPanel>
 
         <!-- On fait le Binding avec la classe AddProjetView dans le dossier ViewModel-->
