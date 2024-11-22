@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mabil\\OneDrive - Collège la Cité\\session3\\WpfMvvmUA2\\WpfMvvmUA2\\WpfMvvmUA2\\WpfMvvmUA2.csproj": {}
+    "C:\\Users\\mabil\\OneDrive - Collège la Cité\\session3\\Project Tracker\\WpfMvvmUA2\\WpfMvvmUA2\\WpfMvvmUA2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mabil\\OneDrive - Collège la Cité\\session3\\WpfMvvmUA2\\WpfMvvmUA2\\WpfMvvmUA2\\WpfMvvmUA2.csproj": {
+    "C:\\Users\\mabil\\OneDrive - Collège la Cité\\session3\\Project Tracker\\WpfMvvmUA2\\WpfMvvmUA2\\WpfMvvmUA2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mabil\\OneDrive - Collège la Cité\\session3\\WpfMvvmUA2\\WpfMvvmUA2\\WpfMvvmUA2\\WpfMvvmUA2.csproj",
+        "projectUniqueName": "C:\\Users\\mabil\\OneDrive - Collège la Cité\\session3\\Project Tracker\\WpfMvvmUA2\\WpfMvvmUA2\\WpfMvvmUA2.csproj",
         "projectName": "WpfMvvmUA2",
-        "projectPath": "C:\\Users\\mabil\\OneDrive - Collège la Cité\\session3\\WpfMvvmUA2\\WpfMvvmUA2\\WpfMvvmUA2\\WpfMvvmUA2.csproj",
+        "projectPath": "C:\\Users\\mabil\\OneDrive - Collège la Cité\\session3\\Project Tracker\\WpfMvvmUA2\\WpfMvvmUA2\\WpfMvvmUA2.csproj",
         "packagesPath": "C:\\Users\\mabil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mabil\\OneDrive - Collège la Cité\\session3\\WpfMvvmUA2\\WpfMvvmUA2\\WpfMvvmUA2\\obj\\",
+        "outputPath": "C:\\Users\\mabil\\OneDrive - Collège la Cité\\session3\\Project Tracker\\WpfMvvmUA2\\WpfMvvmUA2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mabil\\AppData\\Roaming\\NuGet\\NuGet.Config",
