@@ -1,223 +1,39 @@
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmUA2.exe
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmUA2.deps.json
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmUA2.runtimeconfig.json
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmUA2.dll
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmUA2.pdb
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\Icons.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\StyleButton.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\StyleGridView.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\StyleListView.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\StyleTextBox.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Affectation.g.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Membres.g.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Projets.g.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\App.g.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.cache
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.lref
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\App.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Affectation.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Controls\Themes\Generic.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\MainWindow.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Membres.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Projets.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmUA2.g.resources
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmUA2.GeneratedMSBuildEditorConfig.editorconfig
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfoInputs.cache
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfo.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmUA2.csproj.CoreCompileInputs.cache
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmUA2.dll
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\refint\WpfMvvmUA2.dll
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmUA2.pdb
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmUA2.genruntimeconfig.cache
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\ref\WpfMvvmUA2.dll
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.exe
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.deps.json
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.runtimeconfig.json
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.dll
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.pdb
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\Icons.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleButton.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleGridView.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleListView.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleTextBox.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Affectation.g.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Membres.g.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Projets.g.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\App.g.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.cache
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.lref
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\App.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Affectation.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Controls\Themes\Generic.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\MainWindow.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Membres.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Projets.baml
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.g.resources
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.GeneratedMSBuildEditorConfig.editorconfig
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfoInputs.cache
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfo.cs
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.csproj.CoreCompileInputs.cache
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.dll
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\refint\WpfMvvmUA2.dll
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.pdb
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.genruntimeconfig.cache
-D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmUA2\obj\Debug\net8.0-windows\ref\WpfMvvmUA2.dll
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.dll
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\refint\WpfMvvmUA2.dll
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.pdb
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\Icons.baml
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleButton.baml
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleGridView.baml
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleListView.baml
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleTextBox.baml
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Affectation.g.cs
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Projets.g.cs
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\App.g.cs
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.cache
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.lref
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.exe
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.deps.json
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.runtimeconfig.json
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.dll
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.pdb
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Membres.g.cs
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\App.baml
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Affectation.baml
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Controls\Themes\Generic.baml
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\MainWindow.baml
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Membres.baml
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Projets.baml
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.g.resources
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfoInputs.cache
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfo.cs
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.csproj.CoreCompileInputs.cache
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.genruntimeconfig.cache
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\ref\WpfMvvmUA2.dll
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddMembre.g.cs
-C:\Downloads\examen_UA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddMembre.baml
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.exe
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.deps.json
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.runtimeconfig.json
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.dll
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.pdb
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\Icons.baml
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleButton.baml
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleGridView.baml
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleListView.baml
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleTextBox.baml
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddMembre.g.cs
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Affectation.g.cs
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Membres.g.cs
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Projets.g.cs
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.cache
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.lref
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\App.baml
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddMembre.baml
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Affectation.baml
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Controls\Themes\Generic.baml
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\MainWindow.baml
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Membres.baml
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Projets.baml
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.g.resources
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfoInputs.cache
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfo.cs
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.csproj.CoreCompileInputs.cache
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.dll
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\refint\WpfMvvmUA2.dll
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.pdb
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.genruntimeconfig.cache
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\ref\WpfMvvmUA2.dll
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddProjet.g.cs
-C:\Users\mabil\Downloads\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddProjet.baml
-<<<<<<< HEAD
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.exe
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.deps.json
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.runtimeconfig.json
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.dll
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.pdb
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\Icons.baml
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleButton.baml
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleGridView.baml
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleListView.baml
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleTextBox.baml
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddMembre.g.cs
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddProjet.g.cs
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Affectation.g.cs
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Membres.g.cs
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Projets.g.cs
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.cache
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.lref
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\App.baml
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddMembre.baml
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddProjet.baml
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Affectation.baml
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Controls\Themes\Generic.baml
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\MainWindow.baml
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Membres.baml
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Projets.baml
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.g.resources
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfoInputs.cache
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfo.cs
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.csproj.CoreCompileInputs.cache
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.sourcelink.json
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.dll
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\refint\WpfMvvmUA2.dll
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.pdb
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.genruntimeconfig.cache
-C:\Users\mabil\OneDrive - Collège la Cité\session3\WpfMvvmUA2\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\ref\WpfMvvmUA2.dll
-=======
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\Icons.baml
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleButton.baml
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleGridView.baml
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleListView.baml
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleTextBox.baml
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddMembre.g.cs
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddProjet.g.cs
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Affectation.g.cs
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Membres.g.cs
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Projets.g.cs
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.cache
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.lref
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.dll
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\refint\WpfMvvmUA2.dll
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.pdb
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.exe
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.deps.json
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.runtimeconfig.json
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.dll
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.pdb
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\App.baml
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddMembre.baml
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddProjet.baml
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Affectation.baml
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Controls\Themes\Generic.baml
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\MainWindow.baml
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Membres.baml
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Projets.baml
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.g.resources
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfoInputs.cache
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfo.cs
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.csproj.CoreCompileInputs.cache
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.sourcelink.json
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.genruntimeconfig.cache
-C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\ref\WpfMvvmUA2.dll
->>>>>>> d97e5313ad47d73561bd78eef6e14ffa2753d374
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.exe
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.deps.json
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.runtimeconfig.json
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.dll
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\bin\Debug\net8.0-windows\WpfMvvmUA2.pdb
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\Icons.baml
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleButton.baml
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleGridView.baml
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleListView.baml
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Resources\StyleTextBox.baml
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddMembre.g.cs
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddProjet.g.cs
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Affectation.g.cs
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Membres.g.cs
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Projets.g.cs
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.cache
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2_MarkupCompile.lref
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\App.baml
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddMembre.baml
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\AddProjet.baml
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Affectation.baml
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Controls\Themes\Generic.baml
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Membres.baml
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\Views\Projets.baml
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.g.resources
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfoInputs.cache
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.AssemblyInfo.cs
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.csproj.CoreCompileInputs.cache
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.sourcelink.json
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.dll
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\refint\WpfMvvmUA2.dll
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.pdb
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\WpfMvvmUA2.genruntimeconfig.cache
+C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\obj\Debug\net8.0-windows\ref\WpfMvvmUA2.dll

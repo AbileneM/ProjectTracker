@@ -8,10 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WpfMvvmUA2
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\mabil\OneDrive - Collège la Cité\session3\Project Tracker\WpfMvvmUA2\WpfMvvmUA2\
-=======
-build_property.ProjectDir = C:\Users\ameri\Desktop\Cegep\ProjetAppBureau\ProjectTracker\WpfMvvmUA2\WpfMvvmUA2\
->>>>>>> d97e5313ad47d73561bd78eef6e14ffa2753d374
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
